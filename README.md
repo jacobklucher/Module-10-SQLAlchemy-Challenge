@@ -3,6 +3,7 @@
 **File Structure:**
 ```
 Module-10-SQLAlchemy-Challenge
+│  .gitignore
 │  LICENSE
 │  README.md
 │
